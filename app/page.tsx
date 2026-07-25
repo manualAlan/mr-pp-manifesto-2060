@@ -16,10 +16,12 @@ const chapters = [
       "Caprica is stronger when enterprise can move, workers can advance, and government lives within its means. Our next program removes barriers to investment while protecting the stability we restored.",
     icon: "↗",
     commitments: [
-      ["A new fiscal rule", "Keep debt falling as a share of GDP across the cycle, publish independent costings, and preserve a prudent reserve for genuine emergencies."],
-      ["Back builders and founders", "A one-stop business account, 48-hour company registration, faster permits, and a permanent investment allowance for productive equipment and research."],
-      ["A simpler tax code", "No rise in the main rates of income tax. Consolidate nuisance levies and subject every tax relief to a clear value-for-money test."],
-      ["Skills that raise pay", "Personal Skills Accounts co-funded by employers, portable credentials, and accelerated technical programs in energy, logistics, advanced manufacturing, and software."],
+      ["Restore the Stability and Growth Pact", "Put the fiscal framework back into law, keep debt falling as a share of GDP, publish independent costings, and require every budget to arrive on time."],
+      ["A ₳10,000 start-up grant", "Offer new Caprican firms a one-time, tax-free grant of up to ₳10,000, alongside faster registration and simpler permits."],
+      ["Lower taxes on ownership", "Lower or abolish the wealth tax and review fuel, emissions, and luxury taxes so the system rewards investment without opening an unfunded gap."],
+      ["Skills that raise pay", "Build a progressive wage model in which recognized training and greater responsibility lead to higher pay, backed by portable credentials and employer co-funding."],
+      ["Work with clear boundaries", "Enact a right to disconnect for locally employed workers while preserving flexible arrangements that suit different firms and occupations."],
+      ["Reform state-owned companies", "Publish asset and risk assessments, install commercial management, and prepare viable enterprises for transparent share sales where competition can serve the public better."],
     ],
   },
   {
@@ -33,7 +35,7 @@ const chapters = [
     commitments: [
       ["Finish the airport network", "Complete terminal and air-traffic upgrades, introduce open access to ground services, and publish monthly delivery dashboards."],
       ["Reliable utilities, fair competition", "Complete market liberalization with an independent regulator, transparent grid access, and a universal service guarantee."],
-      ["Move people, not paperwork", "Competitive concessions for intercity rail and bus corridors, integrated ticketing, and local control of route design."],
+      ["New transit partnerships", "Use competitively tendered public-private partnerships for intercity rail, bus corridors, and local connections, with integrated ticketing and enforceable service standards."],
       ["Digital Caprica", "Nationwide high-speed coverage through open-access fiber, streamlined mast approvals, and secure digital identity for public services."],
     ],
   },
@@ -47,9 +49,10 @@ const chapters = [
     icon: "◎",
     commitments: [
       ["Equal citizenship", "Defend marriage equality, reproductive freedom, freedom of belief, regional languages, and equal protection under law."],
-      ["Healthcare that responds", "National wait-time standards, more community clinics, interoperable patient records, and expanded mental-health access."],
-      ["Education for an open future", "Critical thinking, practical numeracy, digital literacy, and high-quality play-based early learning at the center of the national curriculum."],
-      ["A modern safety net", "Simplify benefits, reduce sharp withdrawal cliffs, and make work, training, and caregiving transitions easier."],
+      ["Healthcare that responds", "Set national wait-time standards, expand the supply of general practitioners, connect patient records, and establish a national mental-health program."],
+      ["A national care service", "Improve support for older and disabled Capricans, including cancer screening, physical therapy, speech pathology, and practical help for family caregivers."],
+      ["Education that teaches judgment", "Make play-based learning the national standard in kindergarten and use structured Socratic discussion in secondary schools to strengthen critical thinking."],
+      ["Women’s health and regional languages", "Expand reproductive and preventive care for women and guarantee language education in communities where regional languages are spoken."],
     ],
   },
   {
@@ -63,8 +66,9 @@ const chapters = [
     commitments: [
       ["Crisis readiness", "A permanent cross-government resilience center, annual national exercises, and a single public protocol for fast, factual crisis communication."],
       ["Modern policing", "Complete professional standards reform, independent complaint review, body-camera safeguards, and better training in de-escalation and digital evidence."],
-      ["Smart defense", "Prioritize readiness, cyber defense, intelligence cooperation, and personnel welfare over prestige procurement."],
-      ["Rights remain rights", "Time-limited emergency powers, judicial authorization for intrusive surveillance, and mandatory parliamentary review."],
+      ["A stronger defense settlement", "Increase defense funding by ₳4 billion while shifting resources toward readiness, joint exercises, cyber defense, counterterrorism, and personnel welfare."],
+      ["Stand with the Columbian Union", "Deepen practical cooperation with Union partners on intelligence, joint training, regional security, and the defense of Caprica’s democratic way of life."],
+      ["Rights remain rights", "Time-limit emergency powers, require judicial authorization for intrusive surveillance, and mandate parliamentary review."],
     ],
   },
   {
@@ -76,10 +80,11 @@ const chapters = [
       "After the pollution crisis, vague promises are not enough. Polluters must pay, households deserve reliable energy, and clean firms should be able to scale.",
     icon: "◒",
     commitments: [
-      ["A clean air compact", "Legally enforceable air and water standards, real-time public monitoring, and restoration orders funded by those responsible."],
-      ["Market-led decarbonization", "A predictable, economy-wide emissions market with dividends for households and border adjustments for high-carbon imports."],
-      ["Power that stays on", "Technology-neutral clean-power auctions, faster grid connections, storage markets, and a clear pathway for advanced nuclear."],
-      ["Productive land", "Precision agriculture grants, open environmental data, water resilience, and outcome-based stewardship contracts with farmers."],
+      ["Net zero by 2060", "Put the national target into a stable long-term framework, with enforceable air and water standards and real-time public pollution monitoring."],
+      ["A market for lower emissions", "Replace the carbon tax with a broad emissions-trading system that steadily tightens the cap while allowing firms to find the least-cost path to cleaner production."],
+      ["The Green Business Grant", "Offer targeted credits and grants to clean firms that invest and create jobs in Caprica, including advanced solar, artificial intelligence, and affordable green technology."],
+      ["Power that stays on", "Use technology-neutral clean-power auctions, faster grid connections, storage markets, and a clear pathway for advanced nuclear."],
+      ["Productive land", "Help farmers adopt precision technology, secure fertilizer access, manage carbon and nitrogen emissions, and keep agricultural land productive over the next decade."],
     ],
   },
   {
@@ -93,8 +98,9 @@ const chapters = [
     commitments: [
       ["Independent integrity commission", "Investigatory powers, prosecutorial independence, protected reporting channels, and transparent declarations of interests."],
       ["Open contracting", "Publish public contracts, beneficial ownership, performance milestones, and changes in price in one searchable register."],
-      ["Votes that count", "Keep national proportional representation, improve ballot access, and establish an independent boundary and electoral administration."],
-      ["A stronger Parliament", "Earlier scrutiny of emergency measures, enforceable ministerial appearances, and open committee evidence by default."],
+      ["Nineteen national MPs", "Keep proportional representation, replace regional seats with nineteen nationally elected members, and allocate seats through the Sainte-Laguë method."],
+      ["An open-list Senate", "Let voters choose among candidates within party lists and give the Senate a defined role in confidence motions and government accountability."],
+      ["A stronger Parliament", "Require earlier scrutiny of emergency measures, enforceable ministerial appearances, and open committee evidence by default."],
     ],
   },
 ];
