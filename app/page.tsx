@@ -80,7 +80,6 @@ const chapters = [
       "After the pollution crisis, vague promises are not enough. Polluters must pay, households deserve reliable energy, and clean firms should be able to scale.",
     icon: "◒",
     commitments: [
-      ["Net zero by 2060", "Put the national target into a stable long-term framework, with enforceable air and water standards and real-time public pollution monitoring."],
       ["A market for lower emissions", "Replace the carbon tax with a broad emissions-trading system that steadily tightens the cap while allowing firms to find the least-cost path to cleaner production."],
       ["The Green Business Grant", "Offer targeted credits and grants to clean firms that invest and create jobs in Caprica, including advanced solar, artificial intelligence, and affordable green technology."],
       ["Power that stays on", "Use technology-neutral clean-power auctions, faster grid connections, storage markets, and a clear pathway for advanced nuclear."],
